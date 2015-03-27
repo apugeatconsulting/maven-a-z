@@ -1,2 +1,2 @@
-# maven-a-z
-Maven A-Z
+# Maven A-Z
+
